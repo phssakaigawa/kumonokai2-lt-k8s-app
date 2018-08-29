@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>thinkjapan Developer day LT demo</title>
+<title>トレノケ雲の会 mod.2「雲の通ひ路」(クラウド/コンテナ勉強会)</title>
 </head>
 <body>
-<h1>Think Japan Developer Day / Developer Night </h1>
-<h2>use case IBM Cloud Kubernetes Service + DevOps DEMO</h2>
+<h1>トレノケ雲の会 mod.2「雲の通ひ路」(クラウド/コンテナ勉強会)</h1>
+<h2> IBM Cloud Kubernetes Service + DevOps DEMO</h2>
 <hr>
 <br>
 <?php

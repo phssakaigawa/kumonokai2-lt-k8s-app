@@ -1,5 +1,5 @@
-# use case IBM Cloud Kubernetes Service + DevOps ToolChain Demo
-## ThinkJapan - Developer Day Developer Night LT Cloud Native Technology
+# IBM Cloud Kubernets Serviceで使うコンテナ環境 デモ
+## トレノケ雲の会 mod.2「雲の通ひ路」(クラウド/コンテナ勉強会)
 
 本レポジトリは、Github open-toolchainに公開されている[hello-containers](https://github.com/open-toolchain/hello-containers)から、
 内容をカスタマイズしたレポジトリです。
